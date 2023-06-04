@@ -1,0 +1,11 @@
+.addTodoButton {
+  color: #8952e0;
+  border-left: none;
+}
+
+.todoInputWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 3.5rem;
+}

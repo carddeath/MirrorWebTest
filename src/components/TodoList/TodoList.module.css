@@ -1,0 +1,11 @@
+.emptyList {
+  font-size: 20px;
+  font-weight: 400;
+  color: #e6c94b;
+  letter-spacing: 0.2rem;
+  text-align: center;
+}
+
+.todoListWrapper {
+  margin-bottom: 2.5rem;
+}

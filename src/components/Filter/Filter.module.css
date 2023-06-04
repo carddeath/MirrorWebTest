@@ -1,0 +1,8 @@
+.filterButton {
+  width: 120px;
+  padding: 0.8em;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  font-size: 1em;
+  border-left: none;
+}
